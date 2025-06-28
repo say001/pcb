@@ -8,7 +8,7 @@
 <img width="320" alt="image" src="https://github.com/user-attachments/assets/2d72420b-4a73-4a7e-9221-81004af1661f" />
 
 # description
-a totoro inspired custom pcb that has LEDs that activate when the push button is pressed. the LEDs slowly fade in and out due to capacitor.
+a totoro inspired custom pcb that has LEDs that activate when the push button is pressed. the LEDs slowly fade in and out due to the capacitor.
 
 # materials
 
